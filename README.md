@@ -1,12 +1,7 @@
-# week2
-##Clone the repository and then run Library.java using below commands
-### javac Library.java
-### java Library
+# Week 2
 
-### Since i have uploaded .class files if above steps donot get worked please follow the below steps to compile the (library) package once
+## Clone the repository and then run `Library.java` using the following commands:
 
-#### Compile the package using below commad
-#### javac library/*.java
-#### Then run the Library.java file again
-#### javac Library.java
-#### java Library
+### Step 1: Compile `Library.java`
+```bash
+javac Library.java
